@@ -1,7 +1,3 @@
 hello
-<<<<<<< HEAD
-edited
-=======
 edit
 
->>>>>>> 2dc7c2993e2551debacc4a69a3625b4cd2326e7a
